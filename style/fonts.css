@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'PB';
+    src: url(../fonts/Poppins-Black.ttf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'PBold';
+    src: url(../fonts/Poppins-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'PM';
+    src: url(../fonts/Poppins-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'PR';
+    src: url(../fonts/Poppins-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'PT';
+    src: url(../fonts/Poppins-Thin.ttf);
+    font-weight: 100;
+}
